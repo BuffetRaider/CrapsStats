@@ -1,0 +1,6 @@
+c:\users\pjyxv_000\documents\visual studio 2012\Projects\CrapsStats\CrapsStats\bin\Debug\CrapsStats.exe.config
+c:\users\pjyxv_000\documents\visual studio 2012\Projects\CrapsStats\CrapsStats\bin\Debug\CrapsStats.exe
+c:\users\pjyxv_000\documents\visual studio 2012\Projects\CrapsStats\CrapsStats\bin\Debug\CrapsStats.pdb
+c:\users\pjyxv_000\documents\visual studio 2012\Projects\CrapsStats\CrapsStats\obj\Debug\CrapsStats.csprojResolveAssemblyReference.cache
+c:\users\pjyxv_000\documents\visual studio 2012\Projects\CrapsStats\CrapsStats\obj\Debug\CrapsStats.exe
+c:\users\pjyxv_000\documents\visual studio 2012\Projects\CrapsStats\CrapsStats\obj\Debug\CrapsStats.pdb
